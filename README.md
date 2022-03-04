@@ -13,7 +13,7 @@ The path of a leaf node includes the hash values of the inner nodes that generat
 This is an implementation of a Merkle tree written in python.
 * **mtree.py** is a python file that contains the *class node* and *class tree* including the Merkle tree functions.
 * At the end of the file there is a test script.
-* This module can be imported in **SageMath* scripts as well.
+* This module can be imported in *SageMath* scripts as well.
 
 
 # License
@@ -22,6 +22,6 @@ MerkleTree_C is licensed under the MIT License; see [`License`](LICENSE) for det
 
 * This project includes a third party module `fips202.c` which is licensed under public domain.
 
-####### TODO
+###### TODO
 
 - [ ] Insert comments.
